@@ -1,3 +1,3 @@
 #demo
 
-school
+school!
